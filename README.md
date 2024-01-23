@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  📡 Linguagens: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
