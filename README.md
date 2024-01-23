@@ -43,11 +43,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canavesix&show_icons=true)
 
-<div align="center">
+<div align="">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
+<p align="">
   <img
     src="https://profile-counter.glitch.me/canavesix/count.svg"
     alt="Número de visitantes no perfil"
