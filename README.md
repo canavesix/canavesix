@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Bem vindo, me chamo Gustavo e estou inciando nesse mundo de tecnologia sendo um <strong>Front End Iniciante :D</strong>.<br>
+  Bem vindo, me chamo Gustavo e estou iniciando nesse mundo de tecnologia sendo um <strong>Front End Iniciante :D</strong>.<br>
   No momento estou estudando e desenvolvendo projetos front end, me aprimorando em diversos cursos e projetos.
 </p>
 
